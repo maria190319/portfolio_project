@@ -26,12 +26,12 @@ nav {
     padding: 10px;
 }
 
-.image img {
+.myImage img {
     height: 350px;
     width: 270px;
 }
 
-.image {
+.myImage {
     float: right;
     padding-top: 60px;
    
@@ -57,6 +57,11 @@ nav {
     background: none;
 }
 
+.dot{
+    height: 10px;
+    width: 10px;
+}
+
 .skills img {
     height: 50px;
     width: 960px
@@ -66,6 +71,13 @@ nav {
     float: left;
     padding-top: 100px;
 }
+
+.image{
+    visibility: hidden;
+    height: 5px;
+    width: 5px;
+}
+
 
 
 
