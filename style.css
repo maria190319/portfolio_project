@@ -1,0 +1,71 @@
+html {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+}
+nav {
+    background-color: "red";
+    overflow: hidden;
+}
+
+.my_name {
+    float: left;
+    align-content: center;
+    text-align: center;
+}
+
+.nav-bar {
+   font-size: 20px;
+   float: right;
+   align-content: center;
+   text-align: center;
+   padding-top: 20px;
+}
+
+.nav-bar a {
+    padding: 10px;
+}
+
+.image img {
+    height: 350px;
+    width: 270px;
+}
+
+.image {
+    float: right;
+    padding-top: 60px;
+   
+}
+
+.info {
+    float: left;
+    padding-top: 40px;
+}
+
+.info p {
+    font-size: 20px;
+}
+
+.projects {
+    float: left;
+    padding-top: 50px;
+}
+
+.list_projects button{
+    font-size: 20px;
+    border: none;
+    background: none;
+}
+
+.skills img {
+    height: 50px;
+    width: 960px
+}
+
+.skills {
+    float: left;
+    padding-top: 100px;
+}
+
+
+
